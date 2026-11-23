@@ -29,3 +29,23 @@ I learned how to create a repository and use cloud-based development tools. This
 Reflection:
 Setting up GitHub was confusing at first, but following the instructions step by step made it easier. I felt more confident once I had everything ready to start building MatchNstudy.
 
+Session 3- Building my Website and GitHub Copilot
+
+ What I worked on:
+During this session, I started building the MatchNstudy website using GitHub Codespaces and GitHub Copilot. My goal was to create a simple website where university students could look for study partners based on their courses, schedules, and study preferences.
+
+I worked with three main files: index.html, style.css, and script.js. These files were used to create the website's structure, appearance, and interactive features.
+
+How I used AI:
+I used GitHub Copilot to help generate code for my website. I described what I wanted MatchNstudy to do and used the AI-generated code as a starting point. I also used ChatGPT to help me understand the steps involved in building the website.
+
+Challenges I faced:
+Since I did not have much experience coding, understanding how the different files worked together was challenging. I also had to learn how to make changes without affecting other parts of the website.
+
+What I learned:
+I learned that HTML creates the structure of a website, CSS controls how it looks, and JavaScript adds interactive features. I also learned how AI can help someone with limited coding experience build a working prototype.
+
+Reflecion:
+Building the website helped me see how my startup idea could become something real. Although the current version uses example student profiles rather than real accounts, it demonstrates how MatchNstudy could help students find study partners.
+
+
