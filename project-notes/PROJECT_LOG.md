@@ -1,4 +1,4 @@
-##Session 1 — Choosing My Startup Idea
+## Session 1 — Choosing My Startup Idea
 
 **What I worked on:**
 I started by brainstorming startup ideas with ChatGPT for my BSAD 281 project. I wanted to create something that would be useful for university students but also simple enough for me to build as a beginner.
@@ -9,7 +9,7 @@ I used ChatGPT to help brainstorm ideas and understand how my startup could work
 I learned that a startup idea does not have to be complicated to solve a real problem. I also learned that AI can help me organize my ideas and understand technical steps that I would normally find confusing.
 **Reflection:**
 I chose MatchNstudy because I could relate to the problem myself as a university student. I wanted my project to be something that could potentially help students at StFX.
-##Session 2-Setting Up GitHub and Codespaces 
+## Session 2-Setting Up GitHub and Codespaces 
 
 **What I worked on:**
 After choosing my startup idea, I created a public GitHub repository called MatchNstudy. I then opened GitHub Codespaces so I could start building my website. Since I had very little experience with GitHub, I had to learn how to navigate the platform and organize my files.
@@ -21,7 +21,7 @@ One challenge was understanding the difference between GitHub, Codespaces, and G
 I learned how to create a repository and use cloud-based development tools. This helped me understand how technology makes it possible to start a project without needing expensive software or equipment.
 **Reflection:**
 Setting up GitHub was confusing at first, but following the instructions step by step made it easier. I felt more confident once I had everything ready to start building MatchNstudy.
-##Session 3- Building my Website and GitHub Copilot
+## Session 3- Building my Website and GitHub Copilot
 
  **What I worked on:**
 During this session, I started building the MatchNstudy website using GitHub Codespaces and GitHub Copilot. My goal was to create a simple website where university students could look for study partners based on their courses, schedules, and study preferences.
@@ -34,7 +34,7 @@ Since I did not have much experience coding, understanding how the different fil
 I learned that HTML creates the structure of a website, CSS controls how it looks, and JavaScript adds interactive features. I also learned how AI can help someone with limited coding experience build a working prototype.
 **Reflecion:**
 Building the website helped me see how my startup idea could become something real. Although the current version uses example student profiles rather than real accounts, it demonstrates how MatchNstudy could help students find study partners.
-##Session 4- testing and Publishing MatchNstudy
+## Session 4- testing and Publishing MatchNstudy
 
 **What I worked on:**
 During this session, I focused on getting my MatchNstudy website published so other people could access it. After creating the website in GitHub Codespaces, I used GitHub Pages to make it available online.
