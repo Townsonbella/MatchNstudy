@@ -26,4 +26,32 @@ One challenge would be attracting enough students when the website first launche
 
 Overall, network effects could help MatchNstudy grow because more students joining would make the website more valuable and encourage others to use it.
 
+#4 VRIN Analysis
+
+VRIN is used to evaluate whether a business has resources or capabilities that could give it a competitive advantage.
+
+Valuable: I believe MatchNstudy is valuable because it helps students solve a common problem. Instead of spending time asking classmates or searching through group chats, students can use the website to find people taking similar courses who are available to study.
+
+Rare: MatchNstudy could be somewhat rare because it focuses specifically on connecting students based on their university courses and schedules. Although there are other ways to find study partners, having these features together in one place could make the website stand out.
+
+Inimitable: One weakness of MatchNstudy is that the website itself would not be very difficult for another company to copy. However, if the platform became popular at StFX, its existing community of students and study groups could become harder for competitors to recreate.
+
+Non-substitutable: MatchNstudy is not completely non-substitutable because students can still find study partners through friends, class group chats, or social media. However, the website could offer a more organized and convenient alternative.
+
+Overall, I think MatchNstudy has the potential to develop a competitive advantage, but it would need to build a strong student community and continue improving its features to stay competitive.
+
+#5 Cloud Technology and Operations 
+
+Cloud technology is important to MatchNstudy because it allows me to create and operate a website without having to purchase expensive equipment or maintain my own servers.
+
+For this project, I used GitHub to store my website files and GitHub Codespaces to work on the website online. I also used GitHub Pages to publish my website so that other people can access it through a link. This made it possible to create a working prototype without spending money on web hosting.
+
+One advantage of cloud technology is that it allows the business to start small and potentially grow over time. If MatchNstudy became popular at other universities, I would eventually need more advanced hosting and a database to manage student accounts, schedules, and matches.
+
+Another benefit is that I can make changes to the website without having to manage physical servers. However, relying on online services also creates risks, such as website outages and security concerns.
+
+Overall, cloud technology makes MatchNstudy more affordable and easier to manage as a student starting a business. It also gives the business the opportunity to expand if more students begin using the platform.
+
+
+
 
