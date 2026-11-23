@@ -22,6 +22,8 @@ Network effects are important to MatchNstudy because the website becomes more us
 
 MatchNstudy would benefit from direct network effects because students gain more value when other students join the platform. As the number of users increases, there would be more potential matches, study groups, and opportunities to connect with classmates.
 
+Another challenge with network effects is getting the first group of students to sign up. If students visit MatchNstudy and cannot find anyone in their classes, they might not return. To prevent this, I would focus on promoting the website to students taking popular first-year courses because these classes usually have larger numbers of students. This could help create more matches early on. I would also encourage students who successfully find study partners to recommend the website to their friends. Over time, this could help MatchNstudy grow through word of mouth instead of relying entirely on paid advertising.
+
 One challenge would be attracting enough students when the website first launches. Students might not want to sign up if there aren't many people to match with. To help solve this problem, I would initially promote MatchNstudy at StFX through student social media pages, class group chats, and word of mouth. Starting at one university would help build a larger group of users in the same location before expanding. I would also create scanning codes throughout campus as I have seen before for surveys.
 
 Overall, network effects could help MatchNstudy grow because more students joining would make the website more valuable and encourage others to use it.
@@ -51,6 +53,21 @@ One advantage of cloud technology is that it allows the business to start small 
 Another benefit is that I can make changes to the website without having to manage physical servers. However, relying on online services also creates risks, such as website outages and security concerns.
 
 Overall, cloud technology makes MatchNstudy more affordable and easier to manage as a student starting a business. It also gives the business the opportunity to expand if more students begin using the platform.
+
+#6 Risks and Ethics
+
+One of the biggest risks for MatchNstudy would be protecting students' personal information. Since students would potentially share their names, courses, schedules, and study preferences, it would be important to keep this information secure. If I developed the website into a real business, I would need to introduce secure student accounts, privacy settings, and proper data protection.
+
+Another risk would be students creating fake profiles or using the platform inappropriately. To help prevent this, I would consider university email verification and a reporting system so students could report suspicious accounts or inappropriate behaviour.
+
+Another issue I would need to consider is how students interact with each other in person. Since MatchNstudy is designed to help people find study partners, some students might arrange to meet someone they have never met before. I would encourage students to meet in public locations such as the university library or other campus study spaces. I would also want the website to provide clear safety guidelines so students understand how to protect themselves.
+
+There is also a financial risk because MatchNstudy might not attract enough students to become successful. If there are not enough users, students might struggle to find matches and stop using the website. I would try to reduce this risk by launching at StFX first and keeping the basic features free.
+
+I would also need to consider fairness and accessibility. The website should be easy to use and available to students regardless of whether they pay for premium features.
+
+Overall, I believe these risks could be managed through careful planning, protecting student information, and listening to feedback from users.
+
 
 
 
