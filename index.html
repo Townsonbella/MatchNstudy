@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f7f8f3">
+    <meta name="description" content="Find a study partner who shares your courses, schedule, and study style with MatchNstudy.">
+    <title>MatchNstudy — Find your study people</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="#home" aria-label="MatchNstudy home">
+        <span class="brand-mark" aria-hidden="true">M</span>
+        <span>Match<span class="brand-accent">N</span>study</span>
+      </a>
+      <nav class="main-nav" aria-label="Main navigation">
+        <a href="#how-it-works">How it works</a>
+        <a href="#find-a-match">Find a match</a>
+        <a href="#network-effect">The network effect</a>
+      </nav>
+      <a class="button button-small button-dark header-cta" href="#find-a-match">Meet your study people <span aria-hidden="true">↗</span></a>
+    </header>
+
+    <main>
+      <section class="hero section-wrap" id="home">
+        <div class="hero-copy">
+          <p class="eyebrow"><span class="eyebrow-dot"></span> Your next great study session starts here</p>
+          <h1>Better together.<br><span>Brighter by design.</span></h1>
+          <p class="hero-description">Find the people who make studying feel a little less like studying. MatchNstudy connects you with classmates who share your courses, schedule, and study vibe.</p>
+          <div class="hero-actions">
+            <a class="button button-dark" href="#find-a-match">Find your study match <span aria-hidden="true">↗</span></a>
+            <a class="text-link" href="#how-it-works">See how it works <span aria-hidden="true">↓</span></a>
+          </div>
+          <div class="hero-proof">
+            <div class="avatar-stack" aria-hidden="true"><span>J</span><span>A</span><span>M</span><span>K</span></div>
+            <p><strong>A better way to study</strong><br>Built around how students really learn.</p>
+          </div>
+        </div>
+        <div class="hero-art" aria-label="Illustration of study notes and a student">
+          <div class="art-sun"></div>
+          <div class="art-note note-left"><span class="note-icon">✳</span><strong>Good company</strong><small>makes a difference</small></div>
+          <div class="art-note note-right"><span class="note-icon note-lilac">↗</span><strong>Study buddies</strong><small>not just study plans</small></div>
+          <div class="art-desk">
+            <div class="book book-back"></div>
+            <div class="book book-front"><span>little steps<br>add up</span><i></i><i></i><i></i></div>
+            <div class="coffee"><span></span></div>
+            <div class="plant"><i></i><i></i><i></i><b></b></div>
+            <div class="art-person"><div class="person-hair"></div><div class="person-face"><span></span></div><div class="person-body"></div></div>
+          </div>
+          <div class="art-caption"><span>✦</span> Your people. Your pace. Your progress.</div>
+        </div>
+      </section>
+
+      <section class="how-section" id="how-it-works">
+        <div class="section-wrap">
+          <div class="section-heading centered">
+            <p class="eyebrow">A simple way to connect</p>
+            <h2>Study better, <span>together.</span></h2>
+            <p>Great study partners don't happen by accident. Finding one shouldn't be hard either.</p>
+          </div>
+          <div class="steps-grid">
+            <article class="step-card">
+              <span class="step-number">01</span><span class="step-icon icon-green" aria-hidden="true">⌕</span>
+              <h3>Pick your courses</h3><p>Tell us what you're learning and find people in the same classes.</p>
+            </article>
+            <article class="step-card">
+              <span class="step-number">02</span><span class="step-icon icon-yellow" aria-hidden="true">◷</span>
+              <h3>Find your overlap</h3><p>Compare schedules and study styles to find a time that works.</p>
+            </article>
+            <article class="step-card">
+              <span class="step-number">03</span><span class="step-icon icon-lilac" aria-hidden="true">✳</span>
+              <h3>Make it a session</h3><p>Meet your match, share ideas, and make progress together.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="matches-section section-wrap" id="find-a-match">
+        <div class="section-heading match-heading">
+          <div><p class="eyebrow">Your study circle is out there</p><h2>Find your <span>study people.</span></h2></div>
+          <p>Start with a course, add a time that works, and meet the students who are already on your wavelength.</p>
+        </div>
+
+        <div class="finder-panel">
+          <div class="finder-intro">
+            <div><span class="finder-spark" aria-hidden="true">✳</span><span class="eyebrow">The match finder</span></div>
+            <h3>What are you studying?</h3>
+            <p>Choose a course or search for a student. Your matches will update right here.</p>
+          </div>
+          <form class="filter-form" id="filter-form">
+            <label>
+              <span>Course</span>
+              <select id="course-filter">
+                <option value="">All courses</option>
+              </select>
+            </label>
+            <label>
+              <span>Best time to study</span>
+              <select id="time-filter">
+                <option value="">Any time</option>
+                <option value="Morning">Morning</option>
+                <option value="Afternoon">Afternoon</option>
+                <option value="Evening">Evening</option>
+              </select>
+            </label>
+            <label class="search-label">
+              <span>Search students</span>
+              <span class="search-input-wrap"><span aria-hidden="true">⌕</span><input id="student-search" type="search" placeholder="Name, course, or major"></span>
+            </label>
+            <button class="button button-dark find-button" type="submit">Find my matches <span aria-hidden="true">↗</span></button>
+          </form>
+        </div>
+
+        <div class="results-heading">
+          <div><p class="eyebrow">Meet your classmates</p><h3 id="results-title">A few friendly faces</h3></div>
+          <p id="results-count" aria-live="polite"></p>
+        </div>
+        <div class="profile-grid" id="profile-grid" aria-live="polite"></div>
+        <p class="empty-state" id="empty-state" hidden>No students match those filters yet. Try another course or time.</p>
+
+        <section class="match-results" id="match-results" aria-live="polite" hidden>
+          <div class="match-results-heading">
+            <div><p class="eyebrow">Your best-fit study buddies</p><h3>Shared courses. Shared time.</h3></div>
+            <button class="text-button" id="clear-matches" type="button">Clear matches <span aria-hidden="true">×</span></button>
+          </div>
+          <div class="match-list" id="match-list"></div>
+        </section>
+      </section>
+
+      <section class="network-section" id="network-effect">
+        <div class="section-wrap network-layout">
+          <div class="network-copy">
+            <p class="eyebrow"><span class="eyebrow-dot"></span> More classmates, more possibilities</p>
+            <h2>Good things<br>grow <span>together.</span></h2>
+            <p>As more students join, there are more chances to find someone who shares your classes and schedule. That's the network effect: one new connection can help everyone find their people.</p>
+            <div class="simulation-note"><span aria-hidden="true">ⓘ</span><span><strong>Classroom thought experiment</strong><br>These numbers are simulated—not real users or actual matches.</span></div>
+          </div>
+          <div class="simulation-card">
+            <div class="simulation-top">
+              <div><p class="eyebrow">The network effect</p><h3>More students. More matches.</h3></div>
+              <span class="sim-badge">SIMULATED DATA</span>
+            </div>
+            <p class="simulation-explainer">Estimated compatible pairs out of all possible student pairs.</p>
+            <div class="network-chart" id="network-chart" aria-label="Simulated estimate of compatible study pairs"></div>
+            <p class="chart-footnote">For this demo, compatible pairs are estimated as 12% of all possible student pairs. This is a classroom illustration, not a prediction.</p>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="section-wrap footer-inner">
+        <a class="brand footer-brand" href="#home"><span class="brand-mark" aria-hidden="true">M</span><span>Match<span class="brand-accent">N</span>study</span></a>
+        <p>Made for students, by students. One good study session at a time.</p>
+        <p class="footer-notice">Student prototype — fictional data, not a real matching service.</p>
+      </div>
+    </footer>
+  </body>
+</html>
