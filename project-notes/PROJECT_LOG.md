@@ -1,12 +1,12 @@
 ## Session 1 — Choosing My Startup Idea
 
 **What I worked on:**
-I started by brainstorming startup ideas with ChatGPT for my BSAD 281 project. I wanted to create something that would be useful for university students but also simple enough for me to build as a beginner.
+I started by brainstorming startup ideas with ChatGPT for my Tech final project. I wanted to create something that would be useful for university students but also simple enough for me to build as a beginner.
 After considering different ideas, I decided on MatchNstudy, a website that helps university students find study partners based on their courses, schedules, and study preferences.
 **How I used AI:**
 I used ChatGPT to help brainstorm ideas and understand how my startup could work. I also asked for help breaking down the project instructions into smaller steps because I had never built a website using GitHub before.
 **What I learned:**
-I learned that a startup idea does not have to be complicated to solve a real problem. I also learned that AI can help me organize my ideas and understand technical steps that I would normally find confusing.
+I learned that a startup idea does not have to be complicated to solve a real problem. I also learned that AI can help me organize my ideas and understand technical steps that I would normally find confusing. I learned I can use ai to lay out my issues without taking over my whole project.
 **Reflection:**
 I chose MatchNstudy because I could relate to the problem myself as a university student. I wanted my project to be something that could potentially help students at StFX.
 ## Session 2-Setting Up GitHub and Codespaces 
