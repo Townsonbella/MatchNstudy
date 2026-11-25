@@ -68,7 +68,7 @@ I would also need to consider fairness and accessibility. The website should be 
  I believe these risks could be managed through careful planning, protecting student information, and listening to feedback from users.
 
 ## 7 AI Use Disclosure: 
-I used ChatGPT to help brainstorm my startup idea, organize my business case, understand course concepts, and draft and revise sections of my writing. I also used GitHub Copilot to help generate and troubleshoot the code for my website. I used it overall to summarize the project and help break it down into smaller parts.
+I used ChatGPT to help brainstorm my startup idea, organize my business case, understand course concepts, and draft and revise sections of my writing. I also used GitHub Copilot to help generate and troubleshoot the code for my website. I used it overall to summarize the project and help break it down into smaller parts. I did use chat quite a bit to help with fomrating and navogate the website but I made sure to write words in my own sense and follow the guidelines along with the rubic.
 
 
 
