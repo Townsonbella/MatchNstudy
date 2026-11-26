@@ -22,7 +22,7 @@ Network effects are important to MatchNstudy because the website becomes more us
 
 MatchNstudy would benefit from direct network effects because students gain more value when other students join the platform. As the number of users increases, there would be more potential matches, study groups, and opportunities to connect with classmates. Additionally, the more people can be helped, and in general do better within their classes.
 
-Another challenge with network effects is getting the first group of students to sign up. If students visit MatchNstudy and cannot find anyone in their classes, they might not return. To prevent this, I would focus on promoting the website to students taking popular first-year courses because these classes usually have larger numbers of students such as the mandatory prerequisites. This could help create more matches early on . I would also encourage students who successfully find study partners to recommend the website to their friends. Over time, this could help MatchNstudy grow through word of mouth instead of relying entirely on paid advertising that would be evenly funded by paid features on the app. As well as asking teachers to share the word and go to organizations like Trimble who already host group study sessions.
+Another challenge with network effects is getting the first group of students to sign up. If students visit MatchNstudy and cannot find anyone in their classes, they might not return. To prevent this, I would focus on promoting the website to students taking popular first-year courses because these classes usually have larger numbers of students such as the mandatory prerequisites. This could help create more matches early on . Over time, this could help MatchNstudy grow through word of mouth instead of relying entirely on paid advertising that would be evenly funded by paid features on the app. As well as asking teachers to share the word and go to organizations like Trimble who already host group study sessions.
 Additionally, I would initially promote MatchNstudy at StFX through student social media pages, class group chats, and word of mouth. Starting at one university would help build a larger group of users in the same location before expanding. I would also create scanning codes throughout campus, as I have seen before for surveys. 
 
 Therefore, network effects could help MatchNstudy grow because there would be a domino effect as more students joining would make the website more valuable and encourage others to use it.
@@ -49,8 +49,6 @@ For this project, I used GitHub to store my website files and GitHub Codespaces 
 
 One advantage of cloud technology is that it allows the business to start small and potentially grow over time. If MatchNstudy became popular at other universities, I would eventually need more advanced hosting and a database to manage student accounts, schedules, and matches. As well as strong protection for students using the app so there is no data breach.
 
-Another benefit is that I can make changes to the website without having to manage physical servers. However, relying on online services also creates risks, such as website outages and security concerns.
-
 Cloud technology overall makes MatchNstudy more affordable and easier to manage as a student starting a business. It also allows the business to expand if more students begin using the platform.
 
 ## 6 Risks and Ethics
@@ -59,9 +57,7 @@ One of the biggest risks for MatchNstudy would be protecting students' personal 
 
 Another risk would be students creating fake profiles or using the platform inappropriately. To help prevent this, I would consider university email verification like two-factor authentication and a reporting system so students could report suspicious accounts or inappropriate behaviour in order to get banned and taken off the platform.I would implement a zero tolerance program. 
 
-Another issue I would need to consider is how students interact with each other in person. Since MatchNstudy is designed to help people find study partners, some students might arrange to meet someone they have never met before. I would encourage students to meet in public locations such as the university library or other campus study spaces. I would also want the website to provide clear safety guidelines so students understand how to protect themselves.
-
-There is also a financial risk because MatchNstudy might not attract enough students to become successful. If there are not enough users, students might struggle to find matches and stop using the website. I would try to reduce this risk by launching at StFX first and keeping the basic features free or even offering premium trials like on Duolingo.
+Another issue I would need to consider is how students interact with each other in person. Since MatchNstudy is designed to help people find study partners, some students might arrange to meet someone they have never met before. I would encourage students to meet in public locations such as the university library or other campus study spaces. I would also want the website to provide clear safety guidelines so students understand how to protect themselves. I would alsotry to reduce risk by launching at StFX first and keeping the basic features free or even offering premium trials like on Duolingo.
 
 I would also need to consider fairness and accessibility. The website should be easy to use and available to students regardless of whether they pay for premium features.
 
