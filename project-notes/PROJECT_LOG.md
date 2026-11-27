@@ -52,8 +52,9 @@
 **what I Learned**: I learned how to publish a website online and how to changes to my repository can be reflected on the public website. seeing matchNstudy published was rewardin because i started with the idea and found it amaxing how quickly the sophtware runed it into a working protoyope. 
 **commited** es — "Revise PROJECT_LOG with session summaries and reflections", "Update BUSINESS_CASE.md", and "Update PROJECT_LOG.md"
 
+## Reflection 
 
-
+ Before staring the project,I had never created a website I instanty though it was overwhelming. Throughout the project I learned the importance of using ai in the most optimal manner without letting it take over the whole project as I would use it to break it down everything into simpler steps. that helped me manage what was going on while still keeping it my worlds and ideas. I also learned how giving ai specific instructions produced better results and why you stll need to understand and review ai content as it can become overbearing and confusing. Throughout th
 
 
 
