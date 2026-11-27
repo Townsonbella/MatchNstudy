@@ -1,4 +1,4 @@
-## 1. The Idea
+## 1. The Website
 
 MatchNstudy is a website I created to help university students find people to study with who are taking the same courses and have similar schedules. As a university student, I know it can be difficult to find someone to study with, especially when you don't know many individuals in your classes. A lot of people end up studying alone, which isn't a bad thing or relying on friends and group chats, which doesn't always work when everyone has different courses and schedules, as I have learned.
 
